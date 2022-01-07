@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(to top, #d7bcf5, #ffbad8, #ffc6b6, #ffdca5, #dcf3b6);
+}
+.cont{
+    margin: 100px 0 0 500px;
+    padding: 15px;
+    height: 400px;
+    width: 400px;
+    border: 2px solid #000;
+    border-radius: 20px;
+    box-shadow: 0 0 9px 0 ;
+    background-image: linear-gradient(to top, #9c9d9f, #8b8c8d, #7a7b7c, #6a6a6b, #5a5a5a);
+}
+h1{
+    font-size: 2.2em;
+
+}
+input{
+    margin: 10px 0;
+    width: 400px;
+    height: 20px;
+
+}
+button{
+    margin: 10px 0 0 150px;
+    padding: 15px;
+    border-radius: 30%;
+}
